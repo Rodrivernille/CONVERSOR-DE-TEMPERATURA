@@ -1,0 +1,2 @@
+# CONVERSOR-DE-TEMPERATURA
+Ferramenta simples que converte temperaturas entre Celsius e Fahrenheit. O usuário escolhe o tipo de conversão e o programa calcula automaticamente o valor. Excelente para treinar funções, operações matemáticas e menus interativos.
